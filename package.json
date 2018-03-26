@@ -1,0 +1,8 @@
+{
+    "name": "artillery",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "eugenie",
+    "contributors": [],
+    "dependencies": {}
+}
